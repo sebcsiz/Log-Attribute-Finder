@@ -13,7 +13,7 @@ public class attSearcherViaBash {
 
 	public static void main(String[] args) {
 		initialize();
-    }
+    	}
 
 	public static void initialize() {
         Map<Integer, File> map = new HashMap<>();
@@ -74,5 +74,4 @@ public class attSearcherViaBash {
 
         return out;
     }
-
 }
