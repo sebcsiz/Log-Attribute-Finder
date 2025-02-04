@@ -1,6 +1,6 @@
 # Log Attribute Finder
 
-A project created to help my mom❤️ LogAttributeFinderWithBash does what the title implies, it returns all of the instances of a user specified attribute from a `.log` file, so you do not have to skim through hundreds of lines to find a certain attribute (using PowerShell).
+A project created to help my mom❤️ Log Attribute Finder does what the title implies, it returns all of the instances of a user specified attribute from a `.log` file, so you do not have to skim through hundreds of lines to find a certain attribute (using PowerShell).
 
 ## How to use
 
